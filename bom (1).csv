@@ -1,0 +1,9 @@
+﻿Nome,Quantidade,Componente
+"UAula: 16/02/2022",1," Arduino Uno R3"
+"DledVermelho, DledVermelho2, DledVermelho3",3,"Vermelho LED"
+"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14",14,"330 Ω Resistor"
+"DledLaranja, DledLaranja2, DledLaranja3",3,"Laranja LED"
+"DledAmarelo, DledAmarelo2, DledAmarelo3",3,"Amarelo LED"
+"DledVerde, DledVerde2, DledVerde3",3,"Verde LED"
+"DledAzul, DledAzul2",2,"Azul LED"
+"S1",1," Interruptor deslizante"
